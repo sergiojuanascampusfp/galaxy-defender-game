@@ -1,3 +1,2 @@
 # galaxy-defender-game
-Hola
-sergio 
+<p> Cambio gonzalo ecija lol</p> <p> Cambio Daniel Viyuela CAbezas</p>
